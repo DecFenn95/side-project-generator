@@ -1,0 +1,759 @@
+[
+  {
+    "domain": "City Foraging",
+    "description": "Finding edible plants, herbs, and fruit growing in towns and cities",
+    "themes": [
+      "food",
+      "nature",
+      "learning"
+    ],
+    "affords": [
+      "place",
+      "things",
+      "facts",
+      "craft"
+    ]
+  },
+  {
+    "domain": "Home Fermenting",
+    "description": "Making foods and drinks such as sourdough, kimchi, pickles, and kombucha",
+    "themes": [
+      "food",
+      "making"
+    ],
+    "affords": [
+      "things",
+      "routine",
+      "craft",
+      "facts",
+      "log"
+    ]
+  },
+  {
+    "domain": "Home Baking",
+    "description": "Baking bread, cakes, pastries, and desserts with more confidence",
+    "themes": [
+      "food",
+      "making"
+    ],
+    "affords": [
+      "things",
+      "craft",
+      "routine",
+      "facts"
+    ]
+  },
+  {
+    "domain": "Coffee at Home",
+    "description": "Brewing better coffee at home, exploring beans, and dialling in a method",
+    "themes": [
+      "food",
+      "making"
+    ],
+    "affords": [
+      "things",
+      "craft",
+      "routine",
+      "facts",
+      "log"
+    ]
+  },
+  {
+    "domain": "Meal Planning",
+    "description": "Deciding what to cook this week, shopping for it, and using up what is already in",
+    "themes": [
+      "food",
+      "home",
+      "money"
+    ],
+    "affords": [
+      "routine",
+      "things",
+      "facts",
+      "log"
+    ]
+  },
+  {
+    "domain": "Home Gardening",
+    "description": "Planning what to grow, when to plant, and how to care for a garden",
+    "themes": [
+      "nature",
+      "home",
+      "making",
+      "food"
+    ],
+    "affords": [
+      "place",
+      "things",
+      "routine",
+      "craft",
+      "log",
+      "facts"
+    ]
+  },
+  {
+    "domain": "Houseplants",
+    "description": "Choosing, caring for, and diagnosing problems with indoor plants",
+    "themes": [
+      "nature",
+      "home"
+    ],
+    "affords": [
+      "things",
+      "routine",
+      "facts",
+      "log"
+    ]
+  },
+  {
+    "domain": "Community Growing",
+    "description": "Allotments, market gardens, and shared plots that feed a neighborhood",
+    "themes": [
+      "food",
+      "nature",
+      "making"
+    ],
+    "affords": [
+      "place",
+      "things",
+      "routine",
+      "craft",
+      "log",
+      "facts"
+    ]
+  },
+  {
+    "domain": "Saving Food",
+    "description": "Helping shops and communities share surplus food instead of binning it",
+    "themes": [
+      "food",
+      "civic",
+      "money"
+    ],
+    "affords": [
+      "place",
+      "crowd",
+      "things",
+      "routine"
+    ]
+  },
+  {
+    "domain": "Wine Tasting",
+    "description": "Learning about wines, tracking bottles, and finding food pairings",
+    "themes": [
+      "food",
+      "learning",
+      "social"
+    ],
+    "affords": [
+      "things",
+      "facts",
+      "log",
+      "crowd"
+    ]
+  },
+  {
+    "domain": "Running",
+    "description": "Training plans, running routes, local groups, and motivation for runners",
+    "themes": [
+      "health",
+      "play",
+      "nature"
+    ],
+    "affords": [
+      "place",
+      "routine",
+      "log",
+      "crowd"
+    ]
+  },
+  {
+    "domain": "Cycling",
+    "description": "Bike routes, simple maintenance help, group rides, and local cycling tips",
+    "themes": [
+      "health",
+      "travel",
+      "play",
+      "nature"
+    ],
+    "affords": [
+      "place",
+      "routine",
+      "log",
+      "things",
+      "crowd"
+    ]
+  },
+  {
+    "domain": "Hiking Trails",
+    "description": "Finding walks and hikes, judging difficulty, and recording what you covered",
+    "themes": [
+      "nature",
+      "health",
+      "travel",
+      "play"
+    ],
+    "affords": [
+      "place",
+      "routine",
+      "log",
+      "facts",
+      "crowd"
+    ]
+  },
+  {
+    "domain": "Home Workouts",
+    "description": "Strength and cardio sessions done in a front room with little or no kit",
+    "themes": [
+      "health",
+      "home",
+      "learning"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "facts"
+    ]
+  },
+  {
+    "domain": "Stretching",
+    "description": "Simple routines for yoga, flexibility, balance, and body movement",
+    "themes": [
+      "health",
+      "learning"
+    ],
+    "affords": [
+      "routine",
+      "log"
+    ]
+  },
+  {
+    "domain": "Meditation",
+    "description": "Breathing, attention, and calm practices short enough to actually keep up",
+    "themes": [
+      "health",
+      "learning"
+    ],
+    "affords": [
+      "routine",
+      "log"
+    ]
+  },
+  {
+    "domain": "Better Sleep",
+    "description": "Understanding and improving sleep routines, wind-downs, and bedrooms",
+    "themes": [
+      "health",
+      "home"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "facts"
+    ]
+  },
+  {
+    "domain": "Elder Care",
+    "description": "Organizing medication, appointments, and daily help for an older relative",
+    "themes": [
+      "health",
+      "home",
+      "social"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "facts"
+    ]
+  },
+  {
+    "domain": "Baby Care",
+    "description": "Feeding, sleep, and development routines for the first years of a child's life",
+    "themes": [
+      "health",
+      "home"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "facts"
+    ]
+  },
+  {
+    "domain": "Studying & Exams",
+    "description": "Revision techniques, coursework planning, and getting through assessment season",
+    "themes": [
+      "learning",
+      "memory"
+    ],
+    "affords": [
+      "routine",
+      "facts",
+      "log",
+      "crowd"
+    ]
+  },
+  {
+    "domain": "Dog Training",
+    "description": "Teaching recall, walking manners, and tricks, and tracking what sticks",
+    "themes": [
+      "pets",
+      "learning",
+      "play"
+    ],
+    "affords": [
+      "routine",
+      "things",
+      "log",
+      "facts",
+      "place"
+    ]
+  },
+  {
+    "domain": "Dating",
+    "description": "Meeting people, deciding who to see again, and surviving the early stages",
+    "themes": [
+      "social",
+      "play"
+    ],
+    "affords": [
+      "crowd",
+      "place",
+      "log",
+      "facts"
+    ]
+  },
+  {
+    "domain": "Splitting Costs",
+    "description": "Working out who owes what after a trip, a house share, or a big group night",
+    "themes": [
+      "money",
+      "social",
+      "travel"
+    ],
+    "affords": [
+      "crowd",
+      "log",
+      "things",
+      "facts"
+    ]
+  },
+  {
+    "domain": "Household Budgeting",
+    "description": "Tracking where the money went, planning ahead, and cutting the bills that hurt",
+    "themes": [
+      "money",
+      "home"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "facts"
+    ]
+  },
+  {
+    "domain": "Photo Libraries",
+    "description": "Sorting, resurfacing, and sharing the thousands of photos already on a phone",
+    "themes": [
+      "memory",
+      "making"
+    ],
+    "affords": [
+      "things",
+      "craft",
+      "log",
+      "facts"
+    ]
+  },
+  {
+    "domain": "Family History",
+    "description": "Tracing relatives, recording traditions and sayings, and building a family tree",
+    "themes": [
+      "memory",
+      "social",
+      "learning"
+    ],
+    "affords": [
+      "craft",
+      "facts",
+      "crowd",
+      "log"
+    ]
+  },
+  {
+    "domain": "Fixing Things",
+    "description": "Repairing broken home items, electronics, clothing, and furniture",
+    "themes": [
+      "making",
+      "home",
+      "money"
+    ],
+    "affords": [
+      "things",
+      "craft",
+      "facts",
+      "place"
+    ]
+  },
+  {
+    "domain": "Knitting & Sewing",
+    "description": "Patterns, yarn and fabric stashes, alterations, and finishing what you started",
+    "themes": [
+      "making",
+      "home",
+      "play"
+    ],
+    "affords": [
+      "things",
+      "craft",
+      "facts",
+      "log",
+      "crowd"
+    ]
+  },
+  {
+    "domain": "Small Homes",
+    "description": "Making small apartments easier, more comfortable, and better organized",
+    "themes": [
+      "home",
+      "making"
+    ],
+    "affords": [
+      "things",
+      "craft",
+      "place",
+      "log"
+    ]
+  },
+  {
+    "domain": "Shared Workshops",
+    "description": "Using shared tools, learning practical skills, and building things together",
+    "themes": [
+      "making",
+      "social",
+      "learning",
+      "civic"
+    ],
+    "affords": [
+      "place",
+      "things",
+      "crowd",
+      "craft",
+      "facts"
+    ]
+  },
+  {
+    "domain": "Used Clothing",
+    "description": "Buying, selling, swapping, repairing, and styling second-hand clothes",
+    "themes": [
+      "making",
+      "money",
+      "social"
+    ],
+    "affords": [
+      "things",
+      "place",
+      "crowd",
+      "craft",
+      "facts"
+    ]
+  },
+  {
+    "domain": "Memorabilia",
+    "description": "Tracking, valuing, buying, and trading records, cards, coins, and keepsakes",
+    "themes": [
+      "play",
+      "memory",
+      "money",
+      "learning"
+    ],
+    "affords": [
+      "things",
+      "facts",
+      "crowd",
+      "log"
+    ]
+  },
+  {
+    "domain": "Board Games",
+    "description": "Finding games, teaching rules, hosting game nights, and tracking play sessions",
+    "themes": [
+      "play",
+      "social",
+      "learning"
+    ],
+    "affords": [
+      "things",
+      "crowd",
+      "facts",
+      "log",
+      "place"
+    ]
+  },
+  {
+    "domain": "Video Games",
+    "description": "Backlogs, what to play next, and keeping a record of what you finished",
+    "themes": [
+      "play",
+      "social",
+      "memory"
+    ],
+    "affords": [
+      "facts",
+      "crowd",
+      "log",
+      "craft"
+    ]
+  },
+  {
+    "domain": "Indie Movies",
+    "description": "Discovering smaller films, local screenings, and communities of film fans",
+    "themes": [
+      "play",
+      "social",
+      "learning"
+    ],
+    "affords": [
+      "facts",
+      "crowd",
+      "log",
+      "place"
+    ]
+  },
+  {
+    "domain": "Music Listening",
+    "description": "What you played, what it says about you, and finding the next favourite",
+    "themes": [
+      "play",
+      "memory",
+      "social"
+    ],
+    "affords": [
+      "facts",
+      "log",
+      "crowd",
+      "craft"
+    ]
+  },
+  {
+    "domain": "Live Gigs",
+    "description": "Finding shows worth going to, getting tickets, and remembering the good ones",
+    "themes": [
+      "play",
+      "social",
+      "travel",
+      "memory"
+    ],
+    "affords": [
+      "place",
+      "crowd",
+      "log",
+      "facts"
+    ]
+  },
+  {
+    "domain": "Reading & Books",
+    "description": "Deciding what to read next, keeping a shelf, and finishing more of what you start",
+    "themes": [
+      "learning",
+      "play",
+      "memory"
+    ],
+    "affords": [
+      "facts",
+      "routine",
+      "log",
+      "crowd",
+      "things"
+    ]
+  },
+  {
+    "domain": "Walking Tours",
+    "description": "Audio stories, games, and guided routes people enjoy on foot",
+    "themes": [
+      "travel",
+      "play",
+      "learning",
+      "social"
+    ],
+    "affords": [
+      "place",
+      "crowd",
+      "facts",
+      "craft"
+    ]
+  },
+  {
+    "domain": "Stargazing",
+    "description": "Finding stars, planets, sky events, and good dark viewing spots",
+    "themes": [
+      "nature",
+      "learning",
+      "play"
+    ],
+    "affords": [
+      "place",
+      "facts",
+      "log",
+      "routine"
+    ]
+  },
+  {
+    "domain": "Bird Watching",
+    "description": "Identifying birds, recording sightings, and connecting with nearby watchers",
+    "themes": [
+      "nature",
+      "learning",
+      "play"
+    ],
+    "affords": [
+      "place",
+      "things",
+      "facts",
+      "log",
+      "crowd",
+      "routine"
+    ]
+  },
+  {
+    "domain": "Accessible Trips",
+    "description": "Planning journeys that work for mobility, health, or sensory needs",
+    "themes": [
+      "travel",
+      "health",
+      "social"
+    ],
+    "affords": [
+      "place",
+      "facts",
+      "crowd",
+      "craft"
+    ]
+  },
+  {
+    "domain": "City Transport",
+    "description": "Getting across town by bus, metro, bike, scooter, or shared vehicle",
+    "themes": [
+      "travel",
+      "civic",
+      "health"
+    ],
+    "affords": [
+      "place",
+      "routine",
+      "log",
+      "crowd",
+      "facts"
+    ]
+  },
+  {
+    "domain": "Local History",
+    "description": "Finding and preserving the stories, people, buildings, and events of an area",
+    "themes": [
+      "memory",
+      "learning",
+      "civic",
+      "travel"
+    ],
+    "affords": [
+      "place",
+      "facts",
+      "crowd",
+      "craft",
+      "things"
+    ]
+  },
+  {
+    "domain": "Local Government",
+    "description": "Making council decisions, public services, and local issues easier to follow",
+    "themes": [
+      "civic",
+      "learning"
+    ],
+    "affords": [
+      "place",
+      "facts",
+      "crowd",
+      "log"
+    ]
+  },
+  {
+    "domain": "Community Food",
+    "description": "Neighbors sharing food through community fridges, pantries, and meal groups",
+    "themes": [
+      "food",
+      "civic",
+      "social",
+      "money"
+    ],
+    "affords": [
+      "place",
+      "crowd",
+      "things",
+      "routine"
+    ]
+  },
+  {
+    "domain": "Skill Sharing",
+    "description": "Matching people who want to teach a skill with people who want to learn it",
+    "themes": [
+      "learning",
+      "making",
+      "social"
+    ],
+    "affords": [
+      "crowd",
+      "place",
+      "craft",
+      "facts"
+    ]
+  },
+  {
+    "domain": "Mutual Aid",
+    "description": "Neighbors asking for and offering small practical help nearby",
+    "themes": [
+      "civic",
+      "social",
+      "play"
+    ],
+    "affords": [
+      "place",
+      "crowd",
+      "routine",
+      "log"
+    ]
+  },
+  {
+    "domain": "Independent Work",
+    "description": "Finding clients, pricing work, chasing invoices, and staying steady without a salary",
+    "themes": [
+      "work",
+      "money"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "crowd",
+      "facts",
+      "craft"
+    ]
+  },
+  {
+    "domain": "Weather Ready",
+    "description": "Preparing homes and neighborhoods for heat, floods, storms, and power cuts",
+    "themes": [
+      "home",
+      "civic",
+      "nature",
+      "health"
+    ],
+    "affords": [
+      "place",
+      "facts",
+      "crowd",
+      "routine",
+      "log",
+      "things"
+    ]
+  }
+]

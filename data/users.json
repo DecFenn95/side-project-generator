@@ -1,0 +1,874 @@
+[
+  {
+    "user": "Night Owls",
+    "description": "People who regularly work, create, study, or relax late at night.",
+    "themes": [
+      "health",
+      "home",
+      "play",
+      "learning"
+    ],
+    "affords": [
+      "routine",
+      "log"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "New Parents",
+    "description": "Parents navigating the first few years of caring for a young child.",
+    "themes": [
+      "health",
+      "home",
+      "social",
+      "memory"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "facts"
+    ],
+    "avoid_domains": [
+      "baby-care"
+    ]
+  },
+  {
+    "user": "Balcony Growers",
+    "description": "City residents growing food and plants on balconies, windowsills, and rooftops.",
+    "themes": [
+      "nature",
+      "home",
+      "food",
+      "making"
+    ],
+    "affords": [
+      "place",
+      "things",
+      "routine",
+      "craft",
+      "log"
+    ],
+    "avoid_domains": [
+      "home-gardening",
+      "houseplants",
+      "community-growing"
+    ]
+  },
+  {
+    "user": "Digital Nomads",
+    "description": "People who work remotely while moving between cities or countries.",
+    "themes": [
+      "travel",
+      "work",
+      "home",
+      "social"
+    ],
+    "affords": [
+      "place",
+      "routine",
+      "log",
+      "crowd"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Shift Workers",
+    "description": "People with changing or nonstandard work schedules, such as nurses, hospitality staff, and factory workers.",
+    "themes": [
+      "work",
+      "health",
+      "money",
+      "home"
+    ],
+    "affords": [
+      "routine",
+      "log"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "First Renters",
+    "description": "People living independently in a rented home for the first time.",
+    "themes": [
+      "home",
+      "money",
+      "learning",
+      "making"
+    ],
+    "affords": [
+      "things",
+      "place",
+      "routine",
+      "facts"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Weekend Chefs",
+    "description": "Busy people who enjoy experimenting with more ambitious cooking projects on weekends.",
+    "themes": [
+      "food",
+      "making",
+      "home",
+      "play"
+    ],
+    "affords": [
+      "things",
+      "craft",
+      "routine",
+      "facts"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Pet Sitters",
+    "description": "People who temporarily care for other people's cats, dogs, or small pets.",
+    "themes": [
+      "pets",
+      "work",
+      "money",
+      "social"
+    ],
+    "affords": [
+      "place",
+      "routine",
+      "log",
+      "things"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Language Learners",
+    "description": "People actively learning a new language for travel, work, family, or personal interest.",
+    "themes": [
+      "learning",
+      "travel",
+      "social",
+      "memory"
+    ],
+    "affords": [
+      "routine",
+      "facts",
+      "log"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Caregivers",
+    "description": "People who provide ongoing practical or emotional support for an older relative, child, or disabled person.",
+    "themes": [
+      "health",
+      "home",
+      "social",
+      "money"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "facts"
+    ],
+    "avoid_domains": [
+      "elder-care"
+    ]
+  },
+  {
+    "user": "Train Commuters",
+    "description": "People who spend a regular part of their day traveling by train or metro.",
+    "themes": [
+      "travel",
+      "work",
+      "play",
+      "learning"
+    ],
+    "affords": [
+      "place",
+      "routine",
+      "log"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Career Switchers",
+    "description": "Adults preparing to move from one profession or industry into another.",
+    "themes": [
+      "work",
+      "learning",
+      "money",
+      "social"
+    ],
+    "affords": [
+      "routine",
+      "facts",
+      "craft",
+      "log"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Hobby Collectors",
+    "description": "People who collect items such as cards, records, books, toys, coins, or vintage objects.",
+    "themes": [
+      "play",
+      "memory",
+      "money",
+      "learning",
+      "making"
+    ],
+    "affords": [
+      "things",
+      "facts",
+      "crowd",
+      "log"
+    ],
+    "avoid_domains": [
+      "memorabilia"
+    ]
+  },
+  {
+    "user": "Micro Landlords",
+    "description": "Individuals managing one or a small number of rental properties.",
+    "themes": [
+      "home",
+      "money",
+      "work",
+      "civic"
+    ],
+    "affords": [
+      "place",
+      "things",
+      "routine",
+      "log",
+      "facts"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Community Volunteers",
+    "description": "People who regularly contribute time to local charities, clubs, schools, or neighborhood groups.",
+    "themes": [
+      "civic",
+      "social",
+      "learning",
+      "play"
+    ],
+    "affords": [
+      "place",
+      "crowd",
+      "routine",
+      "log"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "First Managers",
+    "description": "Professionals managing people for the first time in their career.",
+    "themes": [
+      "work",
+      "learning",
+      "social",
+      "health"
+    ],
+    "affords": [
+      "routine",
+      "facts",
+      "log",
+      "craft"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Van Lifers",
+    "description": "People who live full-time or frequently travel in a converted van or camper.",
+    "themes": [
+      "travel",
+      "home",
+      "making",
+      "nature"
+    ],
+    "affords": [
+      "place",
+      "things",
+      "routine",
+      "craft",
+      "log"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Thrifters",
+    "description": "People who enjoy finding clothes, furniture, and other goods secondhand.",
+    "themes": [
+      "money",
+      "making",
+      "home",
+      "play"
+    ],
+    "affords": [
+      "things",
+      "place",
+      "facts",
+      "crowd"
+    ],
+    "avoid_domains": [
+      "used-clothing"
+    ]
+  },
+  {
+    "user": "New Neighbors",
+    "description": "People who have recently moved into a new building, neighborhood, city, or country.",
+    "themes": [
+      "home",
+      "social",
+      "civic",
+      "travel"
+    ],
+    "affords": [
+      "place",
+      "crowd",
+      "facts",
+      "log"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Amateur Athletes",
+    "description": "Nonprofessional athletes training for races, leagues, tournaments, or personal fitness goals.",
+    "themes": [
+      "health",
+      "play",
+      "social",
+      "nature"
+    ],
+    "affords": [
+      "place",
+      "routine",
+      "log",
+      "crowd"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Homebrewers",
+    "description": "People making beer, coffee, kombucha, hot sauce, or other consumable projects at home.",
+    "themes": [
+      "food",
+      "making",
+      "home",
+      "learning"
+    ],
+    "affords": [
+      "things",
+      "craft",
+      "routine",
+      "facts",
+      "log"
+    ],
+    "avoid_domains": [
+      "home-fermenting"
+    ]
+  },
+  {
+    "user": "Memory Keepers",
+    "description": "People who preserve family stories, photos, voice notes, recipes, and personal history.",
+    "themes": [
+      "memory",
+      "social",
+      "making",
+      "home"
+    ],
+    "affords": [
+      "craft",
+      "things",
+      "facts",
+      "log"
+    ],
+    "avoid_domains": [
+      "photo-libraries",
+      "family-history"
+    ]
+  },
+  {
+    "user": "Festival Goers",
+    "description": "People who regularly attend music, film, food, art, or cultural festivals.",
+    "themes": [
+      "play",
+      "travel",
+      "social",
+      "memory"
+    ],
+    "affords": [
+      "place",
+      "crowd",
+      "log",
+      "things"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Repair Beginners",
+    "description": "People learning to fix household items, electronics, clothing, bikes, or furniture instead of replacing them.",
+    "themes": [
+      "making",
+      "home",
+      "money",
+      "learning"
+    ],
+    "affords": [
+      "things",
+      "craft",
+      "facts",
+      "place"
+    ],
+    "avoid_domains": [
+      "fixing-things"
+    ]
+  },
+  {
+    "user": "Students",
+    "description": "People in secondary school, college, university, or other structured education.",
+    "themes": [
+      "learning",
+      "money",
+      "social",
+      "play",
+      "food",
+      "home"
+    ],
+    "affords": [
+      "routine",
+      "facts",
+      "log",
+      "crowd",
+      "craft"
+    ],
+    "avoid_domains": [
+      "studying-exams"
+    ]
+  },
+  {
+    "user": "Retirees",
+    "description": "People who have left full-time work and are exploring new routines, hobbies, travel, or community roles.",
+    "themes": [
+      "health",
+      "social",
+      "learning",
+      "play",
+      "memory",
+      "civic",
+      "travel"
+    ],
+    "affords": [
+      "place",
+      "routine",
+      "crowd",
+      "facts",
+      "log",
+      "craft"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Rural Residents",
+    "description": "People living in villages, small towns, or countryside areas with different access, transport, and community needs.",
+    "themes": [
+      "home",
+      "nature",
+      "civic",
+      "travel",
+      "food"
+    ],
+    "affords": [
+      "place",
+      "routine",
+      "crowd",
+      "things",
+      "log"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Young Professionals",
+    "description": "Early-career workers developing skills, networks, and financial independence.",
+    "themes": [
+      "work",
+      "money",
+      "social",
+      "health",
+      "learning"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "crowd",
+      "facts"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Families",
+    "description": "Households with parents or guardians and children living together.",
+    "themes": [
+      "home",
+      "food",
+      "play",
+      "money",
+      "social",
+      "learning"
+    ],
+    "affords": [
+      "routine",
+      "place",
+      "craft",
+      "log",
+      "things"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Single Adults",
+    "description": "Adults who live alone or manage their personal life independently.",
+    "themes": [
+      "home",
+      "social",
+      "health",
+      "money",
+      "play"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "craft"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Couples",
+    "description": "Two people in a relationship sharing activities, plans, or a household.",
+    "themes": [
+      "social",
+      "home",
+      "play",
+      "travel",
+      "memory",
+      "food"
+    ],
+    "affords": [
+      "routine",
+      "craft",
+      "log",
+      "place"
+    ],
+    "avoid_domains": [
+      "dating"
+    ]
+  },
+  {
+    "user": "Homeowners",
+    "description": "People who own the home they live in.",
+    "themes": [
+      "home",
+      "money",
+      "making",
+      "nature"
+    ],
+    "affords": [
+      "place",
+      "things",
+      "routine",
+      "craft",
+      "log"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Remote Workers",
+    "description": "People who work mainly from home or another location outside a traditional office.",
+    "themes": [
+      "work",
+      "home",
+      "health",
+      "social"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "place"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Office Workers",
+    "description": "People who work primarily in an office or administrative setting.",
+    "themes": [
+      "work",
+      "health",
+      "social",
+      "money",
+      "travel"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "crowd"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Freelancers",
+    "description": "Independent workers who find clients and manage their own work.",
+    "themes": [
+      "work",
+      "money",
+      "learning",
+      "social"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "crowd",
+      "facts"
+    ],
+    "avoid_domains": [
+      "independent-work"
+    ]
+  },
+  {
+    "user": "Small Business Owners",
+    "description": "People who own or operate a small local or online business.",
+    "themes": [
+      "work",
+      "money",
+      "food",
+      "civic",
+      "social"
+    ],
+    "affords": [
+      "place",
+      "routine",
+      "log",
+      "crowd",
+      "facts",
+      "things"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Healthcare Workers",
+    "description": "People working in hospitals, clinics, pharmacies, care homes, or health services.",
+    "themes": [
+      "health",
+      "work",
+      "social",
+      "learning"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "facts"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Teachers",
+    "description": "People who teach or support learning in schools, colleges, or education programs.",
+    "themes": [
+      "learning",
+      "work",
+      "social",
+      "play",
+      "making"
+    ],
+    "affords": [
+      "routine",
+      "facts",
+      "crowd",
+      "craft",
+      "log"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Service Workers",
+    "description": "People working in retail, hospitality, food service, customer support, or personal services.",
+    "themes": [
+      "work",
+      "money",
+      "food",
+      "social",
+      "health"
+    ],
+    "affords": [
+      "place",
+      "routine",
+      "log",
+      "crowd"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Urban Residents",
+    "description": "People living in cities or densely populated neighborhoods.",
+    "themes": [
+      "home",
+      "civic",
+      "travel",
+      "social",
+      "nature",
+      "food"
+    ],
+    "affords": [
+      "place",
+      "crowd",
+      "log",
+      "things"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Suburban Residents",
+    "description": "People living in residential neighborhoods outside a city center.",
+    "themes": [
+      "home",
+      "civic",
+      "nature",
+      "travel",
+      "money",
+      "social"
+    ],
+    "affords": [
+      "place",
+      "crowd",
+      "routine",
+      "log",
+      "things"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Low-Income Households",
+    "description": "Individuals or families managing a limited household budget.",
+    "themes": [
+      "money",
+      "home",
+      "food",
+      "civic",
+      "health"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "place",
+      "crowd"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Middle-Income Households",
+    "description": "Households balancing regular costs, savings, and family spending.",
+    "themes": [
+      "money",
+      "home",
+      "food",
+      "learning",
+      "play"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "craft"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "High-Income Earners",
+    "description": "People with relatively high personal or household incomes and more complex financial choices.",
+    "themes": [
+      "money",
+      "travel",
+      "home",
+      "play",
+      "making"
+    ],
+    "affords": [
+      "log",
+      "facts",
+      "things"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Pet Owners",
+    "description": "People responsible for the care, health, routines, and enjoyment of a pet.",
+    "themes": [
+      "pets",
+      "home",
+      "health",
+      "play",
+      "social"
+    ],
+    "affords": [
+      "routine",
+      "things",
+      "log",
+      "place",
+      "facts"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Travelers",
+    "description": "People planning, taking, or documenting leisure or work trips.",
+    "themes": [
+      "travel",
+      "play",
+      "social",
+      "memory",
+      "food",
+      "learning"
+    ],
+    "affords": [
+      "place",
+      "log",
+      "craft",
+      "facts",
+      "crowd"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Fitness Enthusiasts",
+    "description": "People who regularly exercise, train, or track their physical activity.",
+    "themes": [
+      "health",
+      "play",
+      "social",
+      "nature"
+    ],
+    "affords": [
+      "routine",
+      "log",
+      "place",
+      "crowd"
+    ],
+    "avoid_domains": []
+  },
+  {
+    "user": "Job Seekers",
+    "description": "People looking for a new role, preparing applications, or navigating a career transition.",
+    "themes": [
+      "work",
+      "money",
+      "learning",
+      "social"
+    ],
+    "affords": [
+      "routine",
+      "facts",
+      "craft",
+      "log"
+    ],
+    "avoid_domains": [
+      "independent-work"
+    ]
+  }
+]

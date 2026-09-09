@@ -1,0 +1,27 @@
+{
+  "themes": {
+    "food": "Cooking, eating, drinking, and where food comes from",
+    "home": "The place someone lives and how they run it",
+    "health": "Body, mind, rest, and medical life",
+    "money": "Earning, spending, saving, and affording things",
+    "work": "Jobs, clients, careers, and working life",
+    "learning": "Studying, practising, and getting better at something",
+    "social": "Other people, relationships, and belonging",
+    "making": "Building, repairing, crafting, and creating",
+    "nature": "Plants, animals, weather, and the outdoors",
+    "travel": "Getting around, trips, and being somewhere new",
+    "memory": "Keeping and revisiting the past",
+    "pets": "Living with and caring for animals",
+    "civic": "Neighborhoods, public services, and local life",
+    "play": "Games, hobbies, entertainment, and fun"
+  },
+  "capabilities": {
+    "place": "Real locations worth visiting or mapping",
+    "things": "Physical objects to photograph, scan, or handle",
+    "crowd": "Enough participants for group or community play",
+    "facts": "A body of knowledge to quiz, decode, or argue about",
+    "routine": "An activity repeated often enough to build a habit on",
+    "craft": "The user produces something of their own",
+    "log": "Personal data that accumulates over time"
+  }
+}

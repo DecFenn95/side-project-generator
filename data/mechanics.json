@@ -1,0 +1,345 @@
+[
+  {
+    "mechanic": "Daily Puzzle",
+    "description": "A new once-per-day deduction puzzle with constrained guesses, hints, and a shareable result.",
+    "requires": [
+      "facts"
+    ]
+  },
+  {
+    "mechanic": "Swipe Deck",
+    "description": "Users sort a stream of cards with directional swipes, producing choices, recommendations, or an evolving profile.",
+    "requires": []
+  },
+  {
+    "mechanic": "Trading Cards",
+    "description": "Users earn, collect, combine, compare, and trade themed cards with rarity, stats, and special effects.",
+    "requires": [
+      "facts"
+    ]
+  },
+  {
+    "mechanic": "Quest Generator",
+    "description": "The app generates short missions with goals, constraints, rewards, and unexpected events.",
+    "requires": []
+  },
+  {
+    "mechanic": "Photo Scan",
+    "description": "Users photograph something and computer vision identifies objects, conditions, patterns, or opportunities.",
+    "requires": [
+      "things"
+    ]
+  },
+  {
+    "mechanic": "Voice Diary",
+    "description": "Users record spoken entries that are transcribed, summarized, tagged, and resurfaced as reflections.",
+    "requires": [
+      "log"
+    ]
+  },
+  {
+    "mechanic": "Voice Coach",
+    "description": "Personalized tips, stories, instructions, or feedback are delivered as an interactive spoken experience.",
+    "requires": []
+  },
+  {
+    "mechanic": "Spaced Recall",
+    "description": "The app resurfaces saved facts, images, notes, or experiences at spaced intervals and asks users to remember them.",
+    "requires": [
+      "facts"
+    ]
+  },
+  {
+    "mechanic": "Truth or Lie",
+    "description": "Users identify the false claim among plausible facts generated around a topic, person, or dataset.",
+    "requires": [
+      "facts"
+    ]
+  },
+  {
+    "mechanic": "Creative Constraints",
+    "description": "Users receive a challenge with unusual limits on time, budget, materials, words, colors, or tools.",
+    "requires": [
+      "craft"
+    ]
+  },
+  {
+    "mechanic": "Sound Detector",
+    "description": "The app listens through the microphone and identifies relevant sounds or acoustic patterns in real time.",
+    "requires": [
+      "things"
+    ]
+  },
+  {
+    "mechanic": "QR Hunt",
+    "description": "Scanning real-world QR codes unlocks clues, checkpoints, rewards, stories, or collectibles.",
+    "requires": [
+      "place"
+    ]
+  },
+  {
+    "mechanic": "Location Trail",
+    "description": "A map-based journey reveals tasks, information, or progress when users visit relevant places.",
+    "requires": [
+      "place"
+    ]
+  },
+  {
+    "mechanic": "Camera Challenge",
+    "description": "A camera overlay guides users to find, frame, align, measure, or interact with physical objects.",
+    "requires": [
+      "things"
+    ]
+  },
+  {
+    "mechanic": "Change Tracker",
+    "description": "Users capture repeated photos or measurements and the app highlights meaningful changes over time.",
+    "requires": [
+      "things",
+      "log"
+    ]
+  },
+  {
+    "mechanic": "AI Debate",
+    "description": "An AI adopts a viewpoint, challenges the user's reasoning, asks follow-up questions, and evaluates arguments.",
+    "requires": [
+      "facts"
+    ]
+  },
+  {
+    "mechanic": "Branching Story",
+    "description": "Users make consequential choices in an interactive scenario with persistent resources, relationships, and multiple endings.",
+    "requires": []
+  },
+  {
+    "mechanic": "Canvas Relay",
+    "description": "Each participant adds one contribution to a shared drawing, map, story, plan, or design before passing it onward.",
+    "requires": [
+      "crowd",
+      "craft"
+    ]
+  },
+  {
+    "mechanic": "Prediction Pool",
+    "description": "Users allocate virtual points across possible outcomes and watch collective confidence change over time.",
+    "requires": [
+      "crowd"
+    ]
+  },
+  {
+    "mechanic": "Vote Bracket",
+    "description": "Head-to-head votes eliminate options through a tournament until the community selects a winner.",
+    "requires": [
+      "crowd"
+    ]
+  },
+  {
+    "mechanic": "Mystery Box",
+    "description": "Users earn sealed digital boxes containing randomized prompts, rewards, clues, or collectible items.",
+    "requires": []
+  },
+  {
+    "mechanic": "Scratch Reveal",
+    "description": "A touch-based scratch card conceals a challenge, reward, clue, or random outcome.",
+    "requires": []
+  },
+  {
+    "mechanic": "Streak Shield",
+    "description": "Users build a habit streak and earn limited recovery tokens that protect against missed days.",
+    "requires": [
+      "routine"
+    ]
+  },
+  {
+    "mechanic": "Progress World",
+    "description": "Completed actions grow a visual garden, ecosystem, or world that represents consistent progress.",
+    "requires": [
+      "routine"
+    ]
+  },
+  {
+    "mechanic": "Energy Picker",
+    "description": "Users report their energy, focus, and available time, then receive an appropriately sized next task.",
+    "requires": [
+      "routine"
+    ]
+  },
+  {
+    "mechanic": "Micro Experiment",
+    "description": "The app assigns small experiments, records outcomes, and compares results across repeated attempts.",
+    "requires": [
+      "routine",
+      "log"
+    ]
+  },
+  {
+    "mechanic": "Data Soundscape",
+    "description": "Personal activity, sensor readings, or trends are translated into evolving music, rhythm, or ambient audio.",
+    "requires": [
+      "log"
+    ]
+  },
+  {
+    "mechanic": "Badge Forge",
+    "description": "Achievements generate unique badges whose visual traits are determined by the user's behavior and milestones.",
+    "requires": [
+      "routine",
+      "log"
+    ]
+  },
+  {
+    "mechanic": "Digital Pet",
+    "description": "A virtual character grows or changes when users complete relevant real-world actions or learning challenges.",
+    "requires": [
+      "routine"
+    ]
+  },
+  {
+    "mechanic": "Time Capsule",
+    "description": "Users seal messages, media, predictions, or commitments until a future date or event unlocks them.",
+    "requires": []
+  },
+  {
+    "mechanic": "Future Letter",
+    "description": "The app helps users write a message from their imagined future self and delivers it back later.",
+    "requires": []
+  },
+  {
+    "mechanic": "Explain Back",
+    "description": "Users explain a concept in their own words, and AI identifies gaps, misconceptions, and unclear reasoning.",
+    "requires": [
+      "facts"
+    ]
+  },
+  {
+    "mechanic": "Trivia Ladder",
+    "description": "Questions adapt to performance, increasing or decreasing difficulty while tracking topic mastery.",
+    "requires": [
+      "facts"
+    ]
+  },
+  {
+    "mechanic": "Reverse Trivia",
+    "description": "Users receive an answer, image, sound, or clue and must formulate the question it belongs to.",
+    "requires": [
+      "facts"
+    ]
+  },
+  {
+    "mechanic": "Escape Puzzle",
+    "description": "Users collect virtual objects and combine clues, codes, and interactions to solve a compact escape-room sequence.",
+    "requires": [
+      "facts"
+    ]
+  },
+  {
+    "mechanic": "Pattern Hunt",
+    "description": "Users inspect images, data, sequences, or behaviors and identify hidden rules, anomalies, or trends.",
+    "requires": [
+      "facts",
+      "log"
+    ]
+  },
+  {
+    "mechanic": "Map Heatmap",
+    "description": "User contributions or live data accumulate on a map to reveal geographic patterns, gaps, and discoveries.",
+    "requires": [
+      "place",
+      "crowd"
+    ]
+  },
+  {
+    "mechanic": "Nearby Pairing",
+    "description": "Two users physically near one another unlock a shared challenge, exchange, or cooperative interaction.",
+    "requires": [
+      "place",
+      "crowd"
+    ]
+  },
+  {
+    "mechanic": "NFC Unlock",
+    "description": "Tapping physical NFC tags triggers contextual content, progress updates, missions, or personalized experiences.",
+    "requires": [
+      "place",
+      "things"
+    ]
+  },
+  {
+    "mechanic": "Label Decoder",
+    "description": "Users scan a barcode, package, label, or document and receive a structured interpretation, score, or story.",
+    "requires": [
+      "things",
+      "facts"
+    ]
+  },
+  {
+    "mechanic": "AR Placement",
+    "description": "Users place virtual objects, notes, guides, or characters into their physical environment and interact with them.",
+    "requires": [
+      "place",
+      "things"
+    ]
+  },
+  {
+    "mechanic": "Mood Mode",
+    "description": "A quick mood check changes the app's suggestions, tone, visuals, challenge level, or interface.",
+    "requires": [
+      "routine"
+    ]
+  },
+  {
+    "mechanic": "Story Builder",
+    "description": "User choices, photos, notes, and activity become ingredients in a personalized story, comic, or adventure.",
+    "requires": [
+      "craft"
+    ]
+  },
+  {
+    "mechanic": "AI Review Panel",
+    "description": "Users submit an idea or draft and receive contrasting feedback from multiple AI personas or evaluation rubrics.",
+    "requires": [
+      "craft"
+    ]
+  },
+  {
+    "mechanic": "Challenge Chain",
+    "description": "Each completed challenge creates a new challenge for another user, forming an evolving community chain.",
+    "requires": [
+      "crowd"
+    ]
+  },
+  {
+    "mechanic": "Secret Match",
+    "description": "Users are paired through anonymous preferences, answers, or creations before deciding whether to reveal identities.",
+    "requires": [
+      "crowd"
+    ]
+  },
+  {
+    "mechanic": "Resource Simulator",
+    "description": "Users allocate limited time, money, energy, materials, or attention and see simulated consequences.",
+    "requires": [
+      "facts"
+    ]
+  },
+  {
+    "mechanic": "One Button Game",
+    "description": "A single input controls a game built around timing, rhythm, prediction, physics, or escalating patterns.",
+    "requires": []
+  },
+  {
+    "mechanic": "Photo Prompt",
+    "description": "A daily camera prompt invites users to take a photo and receive AI observations, themes, or composition feedback.",
+    "requires": [
+      "things",
+      "craft"
+    ]
+  },
+  {
+    "mechanic": "Personal Replay",
+    "description": "The app turns user activity into a visual timeline, narrated recap, animated highlight reel, or data story.",
+    "requires": [
+      "log"
+    ]
+  }
+]
