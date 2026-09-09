@@ -43,7 +43,7 @@ You'll need Python and pip installed.
 Install the dependencies:
 
 ```bash
-pip install streamlit pandas numpy
+pip install -r requirements.txt
 ```
 
 Run the app:
@@ -55,6 +55,10 @@ streamlit run main.py
 Streamlit will print a local URL in your terminal (usually `http://localhost:8501`) — open that in your browser.
 
 No API keys, accounts, or configuration needed. It runs entirely on your machine using local data.
+
+## Hosting
+
+The app is deployed on [Streamlit Community Cloud](https://streamlit.io/cloud), which deploys straight from this GitHub repo (private repos are supported once you authorize Streamlit's GitHub App on it). Point it at `main.py` on the `main` branch; it reads `requirements.txt` to build the environment and redeploys automatically on push.
 
 ## Project structure
 
@@ -68,6 +72,7 @@ No API keys, accounts, or configuration needed. It runs entirely on your machine
 | `data/mechanics.json` | Possible mechanics, each with `requires` |
 | `data/tags.json` | The tag vocabulary, with a one-line meaning for each tag |
 | `.streamlit/config.toml` | The app's dark theme and accent color |
+| `requirements.txt` | Python dependencies, used locally and by the hosting platform |
 
 ## Customizing
 
